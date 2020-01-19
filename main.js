@@ -12,4 +12,4 @@ const url_json_encoder = potential_url => {
     .replace(/\\/g, "%5C")
     .replace(/\\n/g, "");
 };
-module.exports = url_json_encoder;
+module.exports = {url_json_encoder};

@@ -1,0 +1,19 @@
+{
+  "name": "encode-to-url",
+  "version": "1.1.1",
+  "description": "A package for url encoder",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahulmadaan/url-encoder.git"
+  },
+  "author": "Rahul Madaan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rahulmadaan/url-encoder/issues"
+  },
+  "homepage": "https://github.com/rahulmadaan/url-encoder#readme"
+}
